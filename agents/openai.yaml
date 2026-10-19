@@ -1,4 +1,4 @@
 interface:
   display_name: "接口测试与基础压测"
-  short_description: "完整梳理接口、认证、环境与自动化，按证据排查并开展基础压测"
+  short_description: "梳理 JSON、域名、认证、环境与自动化，按证据排查并开展基础压测"
   default_prompt: "请使用 $api-test-performance-workflow，先确认现有资料与测试目标，再给出完整配置和验证步骤。"
